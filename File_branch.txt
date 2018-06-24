@@ -1,1 +1,5 @@
-first branch!!!...Conflict!!!
+<<<<<<< HEAD
+first branch!!!
+=======
+first branch!!!....this is for conflict
+>>>>>>> d86dd8e322b875a9e84a1357f38559f40a2896d9
